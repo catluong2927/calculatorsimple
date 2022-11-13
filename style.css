@@ -1,0 +1,10 @@
+
+button {
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    border-collapse: collapse;
+}
+textarea {
+    text-align: right;
+}
